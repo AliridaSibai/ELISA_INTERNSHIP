@@ -1,6 +1,5 @@
 import csv
 import math
-
 import cartopy.crs as ccrs
 import flagpy as fp
 import matplotlib.pyplot as plt
